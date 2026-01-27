@@ -9,9 +9,6 @@
 
 📈 Let's connect:
 - 💼 [LinkedIn](https://linkedin.com/in/suman-kumarajothi)
-- 📄 [Resume (PDF)](https://github.com/suman-kumarajothi/resume/blob/main/Suman_Kumarajothi_Resume.pdf)
-- 🧠 [LeetCode](https://leetcode.com/) *(actively prepping)*
-
+- 📄 [Resume (PDF)](https://github.com/suman-kumarajothi/suman-kumarajothi/blob/main/Suman_Kumarajothi_Resume.pdf)
 ---
-
 > ⚡ “Keep building. Keep learning. The best version of your code — and yourself — is always ahead.”
