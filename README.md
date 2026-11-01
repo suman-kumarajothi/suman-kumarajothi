@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Suman Kumarajothi
 
-🚀 A Full-Stack Software Engineer with 3.5+ years of experience building scalable backend systems, distributed microservices, and modern web applications — primarily using **Java**, **Spring Boot**, **Apache Kafka**, **Redis**, **Postgres**, and **Angular**.
+🚀 A Full-Stack Software Engineer with 5+ years of experience in IoT and telecommunications, specializing in backend development and scalable distributed systems. Proficient in Java, Spring Boot, Apache Kafka, and MQTT, with expertise in microservices architecture and modernizing legacy systems. Experienced in building reliable, high-performance solutions and driving engineering excellence through technical leadership and cross-team collaboration.
 
 💡 Interests:
 - Scalable system architecture & Microservices
 - GenAI, LLMs
-- Technical mentorship & open-source contribution
+- Open-source contribution
 
 📈 Let's connect:
 - 💼 [LinkedIn](https://linkedin.com/in/suman-kumarajothi)
